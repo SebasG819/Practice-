@@ -1,0 +1,22 @@
+input {
+    background-color: rgb(179, 139, 219);
+    border: 0px;
+    padding: 5px;
+    margin: 10px;
+    margin-inline: 10px;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    position: center;
+    border-radius: 5px;
+}
+
+#Form{
+    background-color: rgb(210, 164, 218);
+    border-radius: 20px;
+    margin: 40px 300px;
+    padding: 40px 300px;
+     
+     justify-content:center;
+}
+
